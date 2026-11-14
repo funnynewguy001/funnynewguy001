@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**funnynewguy001/funnynewguy001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Akkalol 👋
 
-Here are some ideas to get you started:
+**Начинающий разработчик. Делаю полезные инструменты для GTA 5 RP.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🙋 Обо мне
+
+Я только начинаю путь в разработке и учусь на реальном проекте, которым каждый день
+пользуются живые люди. Мне нравится, когда программа решает понятную проблему:
+не нужно сворачивать игру и искать нужную статью на форуме.
+
+Учусь быстро и открыто: читаю документацию, разбираю ошибки и активно пользуюсь
+ИИ-помощниками. Они помогают писать и проверять код. Всё, что выходит в релиз,
+я сам проверяю в игре.
+
+### 🦉 Как появился Otus
+
+Всё началось с простой проблемы. В Majestic RP десятки законов, кодексов и уставов,
+а лидеры постоянно их переписывают. Чтобы ответить на вопрос «можно ли так делать?»,
+приходилось сворачивать игру и листать форум.
+
+Сначала я сделал маленькое окно поверх игры для себя и своей RP-семьи **SKDA**:
+задаёшь вопрос, ИИ отвечает по законам штата. Потом семья стала просить новые функции,
+и проект вырос:
+
+- 🎙️ **голос** — спрашиваешь, не отпуская руль, в том числе без интернета;
+- 📚 **базы законов всех штатов** с автообновлением и подсветкой «было → стало»;
+- 📄 **документы** с игровыми печатями и отправкой в Discord одной кнопкой;
+- 🗺️ **карта**, памятки, шпаргалка отыгровок, подача жалобы на форум;
+- 🇷🇺 **работа из России** через GigaChat и GLM.
+
+Сейчас Otus в **открытом бета-тесте**: собираю отзывы и исправляю ошибки.
+
+| Версия | Для кого | Скачать |
+|---|---|---|
+| **Otus SKDA** | семья SKDA | [⬇️ последняя версия](https://github.com/funnynewguy001/Otus-SKDA/releases/latest) |
+| **Otus** | игроки Majestic RP | [⬇️ последняя версия](https://github.com/funnynewguy001/Otus/releases/latest) |
+
+### 🔒 Почему Otus можно доверять
+
+- **Не вмешивается в игру.** Не нажимает клавиши, не читает память и не меняет файлы игры.
+  Только показывает окно поверх.
+- **Твои данные остаются у тебя.** Ключи ИИ хранятся на твоём компьютере, пароль от форума
+  программа не видит.
+- **Каждая версия проходит проверку.** Перед выпуском сборка автоматически прогоняет весь
+  интерфейс, проверяет ИИ, голос и запуск готовой программы.
+- **Обновления только отсюда.** Otus скачивает обновления только из моих релизов на GitHub
+  и сверяет контрольную сумму файла.
+- **Открыто говорю об ошибках.** Нашёл баг — пиши, я отвечаю и исправляю.
+
+### 📚 Чему я научился на этом проекте
+
+`Python` · `PyQt6` · работа с API ИИ (Gemini, GigaChat, GLM) · распознавание речи ·
+автоматические тесты · сборка и выпуск через GitHub Actions · установщики для Windows
+
+![Python](https://img.shields.io/badge/Python-3.13-3776AB?logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/PyQt6-41CD52?logo=qt&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+
+### 🎯 Что дальше
+
+- довести Otus до стабильной версии по итогам беты;
+- сделать его удобнее для новичков на сервере;
+- продолжать учиться и браться за новые проекты.
+
+### 📬 Связь
+
+Нашёл ошибку или есть идея — создай обращение в
+[Otus-SKDA](https://github.com/funnynewguy001/Otus-SKDA/issues) или
+[Otus](https://github.com/funnynewguy001/Otus/issues), или напиши мне напрямую:
+
+[![Telegram](https://img.shields.io/badge/Telegram-oddoldbooy-26A5E4?logo=telegram&logoColor=white)](https://t.me/oddoldbooy)
+[![Instagram](https://img.shields.io/badge/Instagram-oddoldboy-E4405F?logo=instagram&logoColor=white)](https://instagram.com/oddoldboy)
+![Discord](https://img.shields.io/badge/Discord-funnynewguyy-5865F2?logo=discord&logoColor=white)
+
+<div align="center"><sub>Otus не является официальным продуктом Majestic RP или Rockstar Games.</sub></div>
